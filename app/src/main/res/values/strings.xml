@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">MiCubacel</string>
-    <string name="no_se_ha_podido_conectar">No se ha podido conectar\nRecuerda que es necesario activar los datos móbiles para acceder</string>
-    <string name="loading">Cargando...</string>
-</resources>
